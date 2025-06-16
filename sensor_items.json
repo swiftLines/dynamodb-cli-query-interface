@@ -1,0 +1,183 @@
+{
+    "Sensors": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor1"},
+                    "SensorDescription": {"S": "Temperature Sensor"},
+                    "ImageFile": {"S": "/Sensors/images/temp-sensor.jpg"},
+                    "SampleRate": {"N": "2048"},
+                    "Locations": {"SS": ["Aberdeen MD"]}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor2"},
+                    "SensorDescription": {"S": "Humidity Sensor"},
+                    "SampleRate": {"N": "1024"},
+                    "Locations": {"SS": ["Orlando FL"]}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor3"},
+                    "ImageFile": {"S": "/Sensors/images/humidity-sensor.jpg"},
+                    "SampleRate": {"N": "4096"},
+                    "Locations": {"SS": ["Houston TX"]}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor4"},
+                    "SensorDescription": {"S": "Pressure Sensor"},
+                    "ImageFile": {"S": "/Sensors/images/pressure-sensor.jpg"},
+                    "SampleRate": {"N": "512"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor5"},
+                    "SensorDescription": {"S": "Light Sensor"},
+                    "SampleRate": {"N": "3072"},
+                    "Locations": {"SS": ["San Francisco CA"]}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor6"},
+                    "Locations": {"SS": ["Chicago IL"]}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor7"},
+                    "SensorDescription": {"S": "Acoustic Sensor"},
+                    "ImageFile": {"S": "/Sensors/images/acoustic-sensor.jpg"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor8"},
+                    "SensorDescription": {"S": "Motion Sensor"},
+                    "SampleRate": {"N": "2048"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor9"},
+                    "SensorDescription": {"S": "Proximity Sensor"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor10"},
+                    "SampleRate": {"N": "2560"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor11"},
+                    "Locations": {"SS": ["Seattle WA"]}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor12"},
+                    "SensorDescription": {"S": "Infrared Sensor"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor13"},
+                    "Locations": {"SS": ["Denver CO"]}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor14"},
+                    "SensorDescription": {"S": "Magnetic Sensor"},
+                    "ImageFile": {"S": "/Sensors/images/magnetic-sensor.jpg"},
+                    "SampleRate": {"N": "1536"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor15"},
+                    "SensorDescription": {"S": "Optical Sensor"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor16"},
+                    "Locations": {"SS": ["Baltimore MD"]}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor17"},
+                    "ImageFile": {"S": "/Sensors/images/thermal-sensor.jpg"},
+                    "SampleRate": {"N": "1024"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor18"},
+                    "SensorDescription": {"S": "Ultrasonic Sensor"},
+                    "SampleRate": {"N": "4096"},
+                    "Locations": {"SS": ["Detroit MI"]}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor19"},
+                    "SensorDescription": {"S": "Vibration Sensor"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Sensor": {"S": "Sensor20"},
+                    "Locations": {"SS": ["San Jose CA"]},
+                    "SampleRate": {"N": "2048"}
+                }
+            }
+        }
+    ]
+}

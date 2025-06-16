@@ -1,0 +1,79 @@
+[
+  {
+    "CourseID": "001",
+    "Subject": "CMIS",
+    "CatalogNbr": "141",
+    "Title": "Introductory Programming",
+    "NumCredits": 3
+  },
+  {
+    "CourseID": "002",
+    "Subject": "CMIS",
+    "CatalogNbr": "242",
+    "Title": "Intermediate Programming",
+    "NumCredits": 3
+  },
+  {
+    "CourseID": "003",
+    "Subject": "CMIS",
+    "CatalogNbr": "320",
+    "Title": "Relational Database Concepts and Applications",
+    "NumCredits": 3
+  },
+  {
+    "CourseID": "004",
+    "Subject": "SDEV",
+    "CatalogNbr": "300",
+    "Title": "Building Secure Web Applications",
+    "NumCredits": 3
+  },
+  {
+    "CourseID": "005",
+    "Subject": "SDEV",
+    "CatalogNbr": "325",
+    "Title": "Detecting Software Vulnerabilities",
+    "NumCredits": 3
+  },
+  {
+    "CourseID": "006",
+    "Subject": "SDEV",
+    "CatalogNbr": "350",
+    "Title": "Database Security",
+    "NumCredits": 3
+  },
+  {
+    "CourseID": "007",
+    "Subject": "SDEV",
+    "CatalogNbr": "360",
+    "Title": "Secure Software Engineering",
+    "NumCredits": 3
+  },
+  {
+    "CourseID": "008",
+    "Subject": "SDEV",
+    "CatalogNbr": "400",
+    "Title": "Secure Programming in the Cloud",
+    "NumCredits": 3
+  },
+  {
+    "CourseID": "009",
+    "Subject": "SDEV",
+    "CatalogNbr": "425",
+    "Title": "Mitigating Software Vulnerabilities",
+    "NumCredits": 3
+  },
+  {
+    "CourseID": "010",
+    "Subject": "SDEV",
+    "CatalogNbr": "460",
+    "Title": "Software Security Testing",
+    "NumCredits": 3
+  },
+  {
+    "CourseID": "011",
+    "Subject": "CMSC",
+    "CatalogNbr": "495",
+    "Title": "Current Trends and Projects in Computer Science",
+    "NumCredits": 3
+  }
+]
