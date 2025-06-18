@@ -1,9 +1,6 @@
 """
- * FILENAME: [aws_s3_functionality.py]
+ * FILENAME: [aws_sdk_dynamodb.py]
  * AUTHOR: [Jeremy Underwood]
- * COURSE: [CYOP 400]
- * PROFESSOR: [Craig Poma]
- * CREATEDATE: [04FEB25]
 """
 
 from __future__ import print_function
